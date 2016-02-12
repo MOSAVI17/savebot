@@ -1,7 +1,7 @@
 <?php
 
 $config = array(
-  'token' => 'YOUR TOKEN',
-  'bot_username' => 'YOUR BOT USERNAME',
+  'token' => '180085272:AAHCJEe-giNe6t41P3lpp-ID8S29qYuyXCc',
+  'bot_username' => '180085272',
   'db' => 'rfiles.sqlite'
   );
